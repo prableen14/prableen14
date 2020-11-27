@@ -8,4 +8,4 @@
 
 
 
-💬 Luck favours the Prepared.
+💬 LUCK FAVOURS THE PREPARED.
