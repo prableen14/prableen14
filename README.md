@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/prableen14/prableen14/blob/main/Assets/wave.gif" width="29px">👩 
+### Hi there <img src="https://github.com/prableen14/prableen14/blob/main/Assets/wave.gif" width="49px">👩 
 
 🔭 I’m currently a sophomore at Guru Gobind Singh Indraprasath University having majors in Computer Science and Engineering. I have keen interest in Machine Learning and Web Development. I’m currently learning Machine Learning and Deep Learning and their advanced tools.🌱
 
