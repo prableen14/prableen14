@@ -1,4 +1,4 @@
-### Hi there 👋🏼👩 
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">👩 
 
 🔭 I’m currently a sophomore at Guru Gobind Singh Indraprasath University having majors in Computer Science and Engineering. I have keen interest in Machine Learning and Web Development. I’m currently learning Machine Learning and Deep Learning and their advanced tools.🌱
 
