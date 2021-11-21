@@ -5,6 +5,7 @@
 📫 Reach me at:
 - Email💻: prableenkaur2016@gmail.com          
 - LinkedIn📄: www.linkedin.com/in/prableen-kaur-sachdeva-9010a2158
+- <a href="www.linkedin.com/in/prableen-kaur-sachdeva-9010a2158" target="_blank">LinkedIn</a>
 
 
 
