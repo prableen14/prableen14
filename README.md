@@ -8,6 +8,7 @@
 - <a href="mailto:prableenkaur2016@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 - <a href="https://www.linkedin.com/in/prableen-kaur-sachdeva-9010a2158/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-
+## Watch a snake eating my contribution graph 😲🐍
+![snake gif](https://github.com/prableen14/prableen14/blob/output/github-contribution-grid-snake.gif)
 
 💬 LUCK FAVOURS THE PREPARED.
